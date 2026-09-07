@@ -1,2 +1,5 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Experienced Software Engineer with over 15 years of industry experience spanning domain knowledge in Financial Delivery Systems, Healthcare Integrated Systems, Transportation, eCommerce applications, Automation and Firmware frameworks, and Computer Security.
+
+As a Software Engineer, I apply my expertise in cloud, blockchain, and cryptography to develop secure and scalable applications for data annotation and machine learning. I have over four years of experience in designing and implementing cybersecurity solutions for various domains, including financial, healthcare, and e-commerce.
+
+I have a strong background in full-stack development, using Java, C#, Python, NodeJS, AngularJS, and other technologies to create user-friendly and high-performance web applications and APIs. I also have a graduate certificate and a master's degree in computer security from Portland State University, where I learned the latest techniques and best practices in cryptography, network security, and data privacy. I am passionate about solving complex and challenging problems that have a positive impact on society and the environment.
