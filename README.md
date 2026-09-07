@@ -4,3 +4,5 @@ https://external-teksystems.udemy.com/course/the-complete-agentic-ai-engineering
 
 Github repos: https://github.com/ed-donner/llm_engineering
 Course GH repo: https://github.com/ed-donner/agents
+
+### Context Engineering: https://www.philschmid.de/context-engineering
