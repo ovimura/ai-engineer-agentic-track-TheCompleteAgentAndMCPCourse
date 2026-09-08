@@ -6,3 +6,9 @@ Github repos: https://github.com/ed-donner/llm_engineering
 Course GH repo: https://github.com/ed-donner/agents
 
 ### Context Engineering: https://www.philschmid.de/context-engineering
+
+## Install project - agents
+
+```sh
+pip install -e .
+```
