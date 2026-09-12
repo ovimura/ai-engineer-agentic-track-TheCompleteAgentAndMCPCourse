@@ -1,0 +1,9 @@
+I oppose the motion because **strict laws regulating LLMs would do more harm than good**.
+
+LLMs are a general-purpose technology like the internet or the printing press. Heavy-handed regulation at this stage would **freeze innovation before society fully understands the technology**. The biggest gains from LLMs—education, coding, medical support, accessibility, research, productivity—come from rapid improvement and wide experimentation. Strict laws would slow that progress, raise compliance costs, and lock powerful AI development into the hands of a few large firms that can afford legal teams. That is the opposite of fairness or safety.
+
+More importantly, **the harms of LLMs are better addressed with targeted enforcement of existing laws**, not sweeping new restrictions. Fraud, defamation, theft, privacy violations, and harassment are already illegal. We should punish harmful use, not burden the technology itself with rigid rules that will quickly become outdated. Overregulation risks banning legitimate applications because lawmakers cannot keep up with technical change.
+
+Strict laws also create a dangerous illusion of control. Technology does not stay inside national borders. If one country imposes heavy restrictions, development simply moves elsewhere, while bad actors continue using the tools anyway. The result is not safety—it is **less transparency, less oversight, and less competitiveness**.
+
+The better approach is **light, flexible regulation**: clear labeling where needed, strong data protection, and strict penalties for misuse. That preserves innovation while still dealing with real harms. In short, we should regulate harmful behavior, not strangle a transformative technology with strict laws.
