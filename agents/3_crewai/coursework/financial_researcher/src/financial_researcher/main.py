@@ -17,11 +17,11 @@ def run():
     """
     Run the crew.
     """
+    company = input("Enter the company name for research: ")
     inputs = {
-        'topic': 'AI LLMs',
-        'current_year': str(datetime.now().year)
+        'company': company,
+        'current_date': str(datetime.now().date())
     }
-
     try:
         FinancialResearcher().crew().kickoff(inputs=inputs)
     except Exception as e:
