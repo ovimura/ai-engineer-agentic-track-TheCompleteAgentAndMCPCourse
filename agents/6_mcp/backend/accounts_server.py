@@ -56,6 +56,16 @@ async def change_strategy(name: str, strategy: str) -> str:
     """
     return Account.get(name).change_strategy(strategy)
 
+@mcp.tool()
+async def notify(name: str, message: str) -> str:
+    """Notify the account holder of a message.
+    
+    Args:
+        name: The name of the account holder
+        message: The message to notify the account holder of
+    """
+    return Account.get(name).notify(message)
+
 @mcp.resource("accounts://accounts_server/{name}")
 async def read_account_resource(name: str) -> str:
     account = Account.get(name.lower())

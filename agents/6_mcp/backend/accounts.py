@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-import json
+import json, requests, os
 from dotenv import load_dotenv
 from datetime import datetime
 from .market import get_share_price
@@ -173,3 +173,14 @@ class Account(BaseModel):
         self.save()
         write_log(self.name, "account", "Changed strategy")
         return "Changed strategy"
+
+    def notify(self, message: str) -> str:
+        """ Notify the account holder of a message """
+        print(f"Notified {self.name}: {message}")
+        requests.post(f"https://api.pushover.net/1/messages.json", data={
+            "token": os.getenv("PUSHOVER_TOKEN"),
+            "user": os.getenv("PUSHOVER_USER"),
+            "message": f"{self.name}: {message}"
+        }, timeout=10)
+        write_log(self.name, "account", f"Notified {self.name}: {message}")
+        return "Notified"
